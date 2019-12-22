@@ -11,5 +11,4 @@
 
 > Add the code on the Javascript section of the desired page. jQuery is required
 
-## Development
-> Developed on behalf of Hats on Digital Agency - www.hatson.digital
+
